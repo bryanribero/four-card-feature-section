@@ -95,7 +95,7 @@ h2{
         max-width: clamp(320px, 60%, 500px);
     }
 }
-@media(min-width:55rem){
+@media(min-width:1200px){
     .layout{
         max-width: 79rem;
         grid-template-columns: repeat(3, 1fr);
