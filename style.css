@@ -97,10 +97,10 @@ h2{
         max-width: clamp(320px, 60%, 500px);
     }
     .container-header h1{
-        font-size: 2.4rem;
+        font-size: 36px;
     }
     .container-header span{
-        font-size: 2.3rem;
+        font-size: 35px;
     }
 }
 @media(min-width:1200px){
